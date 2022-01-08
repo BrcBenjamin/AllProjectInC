@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Le Jeu" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Le Jeu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+				<Linker>
+					<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/bin/alleg44.dll" />
+				</Linker>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Le Jeu" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="C:/Program Files (x86)/CodeBlocks/MinGW/bin/alleg44.dll" />
+		</Linker>
+		<Unit filename="NIVEAU1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="NIVEAU2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="NIVEAU3.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="VIE.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="affichagedelai.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bambou.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="bossNiv1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="collision.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="commandes.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dplBot1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dplBot2.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="dplKunai.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="header.h" />
+		<Unit filename="lanceur.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="main.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="speedrun.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="tirautomatique.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

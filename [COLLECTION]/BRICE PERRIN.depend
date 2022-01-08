@@ -1,0 +1,181 @@
+# depslib dependency file v1.0
+1552145914 source:d:\documents\cours ece paris\informatique\projet\brice perrin\affichercollection.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552145518 d:\documents\cours ece paris\informatique\projet\brice perrin\header.h
+
+1552146006 source:d:\documents\cours ece paris\informatique\projet\brice perrin\ajouterfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552217154 source:d:\documents\cours ece paris\informatique\projet\brice perrin\creerfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552215586 source:d:\documents\cours ece paris\informatique\projet\brice perrin\recherchesupprimer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552145833 source:d:\documents\cours ece paris\informatique\projet\brice perrin\supprimerfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552145716 source:d:\documents\cours ece paris\informatique\projet\brice perrin\toutsuprrimer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552216201 source:d:\documents\cours ece paris\informatique\projet\brice perrin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1552216394 source:d:\documents\cours ece paris\informatique\projet\brice perrin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1552232388 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\affichercollection.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552250025 d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\header.h
+
+1552146006 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\ajouterfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552248108 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\creerfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552248597 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1552249967 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1552233725 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\recherchesupprimer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552217457 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\supprimerfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552234520 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\recherchemodifier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552248991 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\affichercaracteristique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552250209 source:d:\documents\cours ece paris\informatique\projet\[collection] brice perrin\supprimerunefiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552252591 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\affichercaracteristique.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552253625 d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\header.h
+
+1552235988 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\affichercollection.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552149606 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\ajouterfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552251708 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\creerfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552253927 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1552253567 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1552238120 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\recherchemodifier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552237325 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\recherchesupprimer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552221057 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\supprimerfiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+
+1552253809 source:d:\documents\cours ece paris\ing1\informatique\projet\[collection] brice perrin\supprimerunefiche.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"header.h"
+

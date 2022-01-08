@@ -1,0 +1,347 @@
+# depslib dependency file v1.0
+1542893637 source:c:\users\paul\desktop\siam\affconsole.c
+
+1543951947 source:c:\users\paul\desktop\siam\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1542893634 c:\users\paul\desktop\siam\affconsole.h
+
+1542893838 c:\users\paul\desktop\siam\color.h
+
+1542893934 source:c:\users\paul\desktop\siam\color.c
+	<string.h>
+	<windows.h>
+
+1542897227 source:c:\users\paul\desktop\siam\animaux.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1542894041 c:\users\paul\desktop\siam\animaux.h
+
+1542899150 c:\users\paul\desktop\siam\orienter.h
+
+1544031813 source:c:\users\brice\desktop\siam\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1542893636 c:\users\brice\desktop\siam\affconsole.h
+
+1542893840 c:\users\brice\desktop\siam\color.h
+
+1542894042 c:\users\brice\desktop\siam\animaux.h
+
+1542899152 c:\users\brice\desktop\siam\orienter.h
+
+1542920214 c:\users\brice\desktop\siam\affconsole.c
+
+1542893936 c:\users\brice\desktop\siam\color.c
+	<string.h>
+	<windows.h>
+
+1543671892 c:\users\brice\desktop\siam\animaux.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543668786 c:\users\brice\desktop\siam\orienter.c
+
+1543669432 c:\users\brice\desktop\siam\deplacer.c
+
+1543669488 source:e:\siam\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"affconsole.c"
+	"color.c"
+	"animaux.c"
+	"orienter.c"
+	"deplacer.c"
+
+1542920214 e:\siam\affconsole.c
+
+1542893936 e:\siam\color.c
+	<string.h>
+	<windows.h>
+
+1543668324 e:\siam\animaux.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543668786 e:\siam\orienter.c
+
+1543669432 e:\siam\deplacer.c
+
+1543951948 source:f:\siam\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1542920214 f:\siam\affconsole.c
+
+1542893936 f:\siam\color.c
+	<string.h>
+	<windows.h>
+
+1543671892 f:\siam\animaux.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543668786 f:\siam\orienter.c
+
+1543669432 f:\siam\deplacer.c
+
+1543671560 f:\siam\sortir.c
+
+1543671560 c:\users\brice\desktop\siam\sortir.c
+
+1542920214 c:\users\paul\desktop\siam\affconsole.c
+
+1542893936 c:\users\paul\desktop\siam\color.c
+	<string.h>
+	<windows.h>
+
+1543859379 c:\users\paul\desktop\siam\animaux.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543919683 c:\users\paul\desktop\siam\orienter.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1543669432 c:\users\paul\desktop\siam\deplacer.c
+
+1543671560 c:\users\paul\desktop\siam\sortir.c
+
+1543854793 c:\users\paul\desktop\siam\pousser.c
+
+1543941284 source:c:\users\paul\desktop\siam\console.c
+
+1543941334 source:c:\users\paul\desktop\siam\couleur.c
+	<string.h>
+	<windows.h>
+
+1543941363 source:c:\users\paul\desktop\siam\deplacera.c
+
+1543950879 source:c:\users\paul\desktop\siam\entrera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543951133 c:\users\paul\desktop\siam\header.h
+
+1543941387 source:c:\users\paul\desktop\siam\orientation.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1543941465 source:c:\users\paul\desktop\siam\poussera.c
+
+1543951428 source:c:\users\paul\desktop\siam\sortira.c
+
+1543941286 source:f:\siam\console.c
+
+1543941336 source:f:\siam\couleur.c
+	<string.h>
+	<windows.h>
+
+1543941364 source:f:\siam\deplacera.c
+
+1543951134 f:\siam\header.h
+
+1543941388 source:f:\siam\orientation.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1543941466 source:f:\siam\poussera.c
+
+1543951430 source:f:\siam\sortira.c
+
+1543959386 source:f:\siam\entrera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543941286 source:c:\users\brice\desktop\siam\console.c
+
+1543941336 source:c:\users\brice\desktop\siam\couleur.c
+	<string.h>
+	<windows.h>
+
+1543965156 source:c:\users\brice\desktop\siam\deplacera.c
+
+1544031769 c:\users\brice\desktop\siam\header.h
+
+1543964489 source:c:\users\brice\desktop\siam\orientation.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1544031767 source:c:\users\brice\desktop\siam\poussera.c
+	<stdio.h>
+
+1543974947 source:c:\users\brice\desktop\siam\sortira.c
+
+1543972203 source:c:\users\brice\desktop\siam\entrera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543979557 source:c:\users\brice\desktop\siam\calculf.c
+
+1543979557 c:\users\brice\desktop\siam\calculf.c
+
+1543978658 source:c:\users\brice\desktop\siam\forcea.c
+
+1543978658 c:\users\brice\desktop\siam\forcea.c
+
+1543978768 c:\users\brice\desktop\siam\forcea.h
+
+1543979468 c:\users\brice\desktop\siam\calculf.h
+
+1543941286 source:c:\users\brice\desktop\brice,perrin\console.c
+
+1543941336 source:c:\users\brice\desktop\brice,perrin\couleur.c
+	<string.h>
+	<windows.h>
+
+1543965156 source:c:\users\brice\desktop\brice,perrin\deplacera.c
+
+1543972203 source:c:\users\brice\desktop\brice,perrin\entrera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543964489 source:c:\users\brice\desktop\brice,perrin\orientation.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1544031767 source:c:\users\brice\desktop\brice,perrin\poussera.c
+	<stdio.h>
+
+1543974947 source:c:\users\brice\desktop\brice,perrin\sortira.c
+
+1543941286 source:c:\users\brice\desktop\brice,perrin,bonneversion\console.c
+
+1543941336 source:c:\users\brice\desktop\brice,perrin,bonneversion\couleur.c
+	<string.h>
+	<windows.h>
+
+1543972203 source:c:\users\brice\desktop\brice,perrin,bonneversion\entrera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1543964489 source:c:\users\brice\desktop\brice,perrin,bonneversion\orientation.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1543974947 source:c:\users\brice\desktop\brice,perrin,bonneversion\sortira.c
+
+1544625956 source:c:\users\brice\desktop\brice,perrin,bonneversion\deplacera.c
+
+1544569978 source:c:\users\brice\desktop\brice,perrin,bonneversion\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1544031769 c:\users\brice\desktop\brice,perrin,bonneversion\header.h
+
+1544379331 source:c:\users\brice\desktop\brice,perrin,bonneversion\poussera.c
+	<stdio.h>
+
+1543941286 source:d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\console.c
+
+1543941336 source:d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\couleur.c
+	<string.h>
+	<windows.h>
+
+1544625958 source:d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\deplacera.c
+
+1543972204 source:d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\entrera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1544569980 source:d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1544031770 d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\header.h
+
+1543964490 source:d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\orientation.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1544379332 source:d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\poussera.c
+	<stdio.h>
+
+1543974948 source:d:\documents\cours ece paris\informatique\projet\[siam] brice perrin\sortira.c
+
+1543941286 source:d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\console.c
+
+1543941336 source:d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\couleur.c
+	<string.h>
+	<windows.h>
+
+1544625958 source:d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\deplacera.c
+
+1543972204 source:d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\entrera.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+
+1544569980 source:d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\main.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	"header.h"
+
+1544031770 d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\header.h
+
+1543964490 source:d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\orientation.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+
+1544379332 source:d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\poussera.c
+	<stdio.h>
+
+1543974948 source:d:\documents\ece\ing1\informatique\projet\[siam] brice perrin\sortira.c
+

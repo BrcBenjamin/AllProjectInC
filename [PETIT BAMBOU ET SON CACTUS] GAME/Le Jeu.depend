@@ -1,0 +1,521 @@
+# depslib dependency file v1.0
+1554307374 source:d:\documents\cours ece paris\informatique\projet\le jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554306912 d:\documents\cours ece paris\informatique\projet\le jeu\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1554201920 source:d:\documents\cours ece paris\informatique\projet\le jeu\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1554244783 source:d:\documents\cours ece paris\informatique\projet\le jeu\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554248954 source:d:\documents\cours ece paris\informatique\projet\le jeu\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1554305782 source:d:\documents\cours ece paris\informatique\projet\le jeu\collidecor.c
+	<allegro.h>
+	"header.h"
+
+1554302472 source:d:\documents\cours ece paris\informatique\projet\le jeu\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554307232 source:d:\documents\cours ece paris\informatique\projet\le jeu\actualiserbitcolli.c
+	<allegro.h>
+	"header.h"
+
+1554307232 source:d:\documents\cours ece paris\ing1\informatique\projet\le jeu\actualiserbitcolli.c
+	<allegro.h>
+	"header.h"
+
+1554744569 d:\documents\cours ece paris\ing1\informatique\projet\le jeu\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1554248954 source:d:\documents\cours ece paris\ing1\informatique\projet\le jeu\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1554734336 source:d:\documents\cours ece paris\ing1\informatique\projet\le jeu\collidecor.c
+	<allegro.h>
+	"header.h"
+
+1554302472 source:d:\documents\cours ece paris\ing1\informatique\projet\le jeu\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554244783 source:d:\documents\cours ece paris\ing1\informatique\projet\le jeu\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554201920 source:d:\documents\cours ece paris\ing1\informatique\projet\le jeu\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1554745307 source:d:\documents\cours ece paris\ing1\informatique\projet\le jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554745237 source:d:\documents\cours ece paris\ing1\informatique\projet\le jeu\collision.c
+	<allegro.h>
+	"header.h"
+
+1554248954 source:d:\documents\ece\ing1\informatique\projet\le jeu\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1555338001 d:\documents\ece\ing1\informatique\projet\le jeu\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1555336828 source:d:\documents\ece\ing1\informatique\projet\le jeu\collision.c
+	<allegro.h>
+	"header.h"
+
+1554302472 source:d:\documents\ece\ing1\informatique\projet\le jeu\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555064899 source:d:\documents\ece\ing1\informatique\projet\le jeu\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555337908 source:d:\documents\ece\ing1\informatique\projet\le jeu\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554201920 source:d:\documents\ece\ing1\informatique\projet\le jeu\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1555063656 source:d:\documents\ece\ing1\informatique\projet\le jeu\traitementbitmap..c
+	<allegro.h>
+	"header.h"
+
+1555067732 source:d:\documents\ece\ing1\informatique\projet\le jeu\commandes.c
+	<allegro.h>
+	"header.h"
+
+1554248954 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1555417104 d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1555417289 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555357555 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554201920 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1555418269 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\collision.c
+	<allegro.h>
+	"header.h"
+
+1555357534 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\commandes.c
+	<allegro.h>
+	"header.h"
+
+1555417407 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555383500 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice joel perrin\dplbot2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554248954 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1555422950 c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1555418269 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\collision.c
+	<allegro.h>
+	"header.h"
+
+1555357534 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\commandes.c
+	<allegro.h>
+	"header.h"
+
+1555417289 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555383500 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\dplbot2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555357555 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555423222 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554201920 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1555423238 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] brice joel perrin\niveau1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555595792 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1555596933 c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1555593782 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\collision.c
+	<allegro.h>
+	"header.h"
+
+1555594350 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\commandes.c
+	<allegro.h>
+	"header.h"
+
+1555506504 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555507327 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\dplbot2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555594472 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555594608 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555596943 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\niveau1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1554201920 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1555507352 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\dplbdfeu.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555594122 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\bambou.c
+	<allegro.h>
+	"header.h"
+
+1555595961 source:c:\users\paul\desktop\[petit bambou et son cactus] brice joel perrin\[petit bambou et son cactus] v1.1\vie.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555599791 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1555600352 c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1555564840 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\bambou.c
+	<allegro.h>
+	"header.h"
+
+1555600049 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\commandes.c
+	<allegro.h>
+	"header.h"
+
+1555564860 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555598777 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\dplbot2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555600397 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555564890 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555600343 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\niveau1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555564920 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1555599281 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\vie.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555598803 source:c:\users\brice\desktop\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\collision.c
+	<allegro.h>
+	"header.h"
+
+1555599791 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1556129334 d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1556129339 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\bambou.c
+	<allegro.h>
+	"header.h"
+
+1556125537 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\collision.c
+	<allegro.h>
+	"header.h"
+
+1556119222 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\commandes.c
+	<allegro.h>
+	"header.h"
+
+1556121744 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556128659 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\dplbot2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555600397 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556130818 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556126057 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\niveau1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555564920 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1556118281 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\vie.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556126043 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\tirautomatique.c
+	<allegro.h>
+	"header.h"
+
+1556128834 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\bossniv1.c
+	<allegro.h>
+	"header.h"
+
+1556126333 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\niveau2.c
+	<allegro.h>
+	"header.h"
+
+1556122559 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\lanceur.c
+	<allegro.h>
+	"header.h"
+
+1556130856 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] v1.1-20190418t133815z-001\[petit bambou et son cactus] v1.1\niveau3.c
+	<allegro.h>
+	"header.h"
+
+1555596191 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\affichagedelai.c
+	<allegro.h>
+	"header.h"
+
+1556125734 d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\header.h
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+
+1556125739 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\bambou.c
+	<allegro.h>
+	"header.h"
+
+1556125234 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\bossniv1.c
+	<allegro.h>
+	"header.h"
+
+1556121937 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\collision.c
+	<allegro.h>
+	"header.h"
+
+1556115622 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\commandes.c
+	<allegro.h>
+	"header.h"
+
+1556118144 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\dplbot1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556125059 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\dplbot2.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1555596797 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\dplkunai.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556118959 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\lanceur.c
+	<allegro.h>
+	"header.h"
+
+1558519917 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\main.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556122457 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\niveau1.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556122733 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\niveau2.c
+	<allegro.h>
+	"header.h"
+
+1555561320 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\speedrun.c
+	<allegro.h>
+	<time.h>
+	"header.h"
+
+1556122443 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\tirautomatique.c
+	<allegro.h>
+	"header.h"
+
+1556114681 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\vie.c
+	<stdio.h>
+	<stdlib.h>
+	<allegro.h>
+	"header.h"
+
+1556127344 source:d:\documents\ece\ing1\informatique\projet\[petit bambou et son cactus] brice,joel,perrin\niveau3.c
+	<allegro.h>
+	"header.h"
+
